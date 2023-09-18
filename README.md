@@ -71,7 +71,6 @@
 
 ```
 
-### 🔎 구성
 
 ####  활용 데이터
 
@@ -80,4 +79,9 @@
 - (영화) [영화 SoundTrack API](https://spotify.com)(예정)
 - (영화) [실시간 박스오피스 정보 API](https://kobis.or.kr)
 - (공연) [KOPIS API](https://www.kopis.or.kr/por/main/main.do)
+
+---
+
+#### Overview
+![image](https://github.com/oppenheimer-joa/docs/assets/86358091/12d9eb30-8919-4b41-866d-bfc6761aeae2)
 
