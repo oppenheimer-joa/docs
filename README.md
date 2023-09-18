@@ -16,8 +16,8 @@
 
 #### 데이터 저장기간
 
-공연 -> 2019 ~ 현재 <br>
-영화 -> 1950 ~ 현재
+공연 -> 2008 ~ 현재 <br>
+영화 -> 1960 ~ 현재
 
 #### 슬문생 데이터목록
 
@@ -70,18 +70,6 @@
 │   │        └── 사용자 기반 평점
 
 ```
-#### 슬문생 세부기능
-
-1. 영화 정보 도감
-2. 공연 정보 도감
-3. 사용자 평점 기반 영화 추천
-4. 사용자 평점 기반 공연 추천
-5. 영화 플레이리스트
-6. 공연 플레이리스트
-7. 실시간 국내 박스오피스 순위 및 기타 (예매율, 전국 예매 현황)
-8. 영화 컨텐츠 기반 영화 추천
-9. 공연 컨텐츠 기반 공연 추천
-
 
 ### 🔎 구성
 
@@ -89,8 +77,7 @@
 
 - (영화) [TMDB API](https://www.kobis.or.kr/kobis/business/main/main.do)
 - (영화) [수상내역_Crawler](https://imdb.com)
-- (영화) [영화 SoundTrack API](https://spotify.com)
+- (영화) [영화 SoundTrack API](https://spotify.com)(예정)
 - (영화) [실시간 박스오피스 정보 API](https://kobis.or.kr)
 - (공연) [KOPIS API](https://www.kopis.or.kr/por/main/main.do)
-- (기획중) 주변 맛집 및 기타 정보 추가 예정(etc..)
 
