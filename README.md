@@ -73,6 +73,9 @@
 
 ```
 
+### 🔎 아키텍쳐
+<img width="631" alt="image" src="https://github.com/oppenheimer-joa/docs/assets/86358091/24c49054-0a5d-4de1-bbb1-8a2d3c88183b">
+
 
 ####  활용 데이터
 
