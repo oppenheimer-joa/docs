@@ -1,5 +1,7 @@
 # 💡 Final Project
 
+## [슬문생_기획서](https://github.com/oppenheimer-joa/docs/files/12647253/_.pdf)
+
 
 ### 슬기로운 문화 생활 (슬.문.생)
 
@@ -80,8 +82,5 @@
 - (영화) [실시간 박스오피스 정보 API](https://kobis.or.kr)
 - (공연) [KOPIS API](https://www.kopis.or.kr/por/main/main.do)
 
----
 
-#### Overview
-![image](https://github.com/oppenheimer-joa/docs/assets/86358091/12d9eb30-8919-4b41-866d-bfc6761aeae2)
 
